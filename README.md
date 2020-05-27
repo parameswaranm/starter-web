@@ -6,6 +6,6 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-## How to Contribute 555
+## How to Contribute 555, 12345
 
 Sample website with plenty of files for demos
